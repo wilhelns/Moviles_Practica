@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovilPractice</string>
+    <string name="parrafo">Enter your Text</string>
+    <string name="calcular">Calculate</string>
+    <string name="buscarpalabra">word to calculate</string>
+</resources>
